@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.itrip.project:itripdao:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/Program Files/maven 3.5.2/maven resp/cn/itrip/project/Itripdao/1.0-SNAPSHOT/Itripdao-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Program Files/maven 3.5.2/maven resp/cn/itrip/project/itripdao/1.0-SNAPSHOT/itripdao-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Program Files/maven 3.5.2/maven resp/cn/itrip/project/itripdao/1.0-SNAPSHOT/itripdao-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

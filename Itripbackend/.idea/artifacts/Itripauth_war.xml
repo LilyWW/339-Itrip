@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Itripauth:war">
+    <output-path>$PROJECT_DIR$/Itripauth/target</output-path>
+    <root id="archive" name="Itripauth.war">
+      <element id="artifact" artifact-name="Itripauth:war exploded" />
+    </root>
+  </artifact>
+</component>

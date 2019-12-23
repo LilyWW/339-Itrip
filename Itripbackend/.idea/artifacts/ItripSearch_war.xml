@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ItripSearch:war">
+    <output-path>$PROJECT_DIR$/ItripSearch/target</output-path>
+    <root id="archive" name="itripSearch.war">
+      <element id="artifact" artifact-name="ItripSearch:war exploded" />
+    </root>
+  </artifact>
+</component>

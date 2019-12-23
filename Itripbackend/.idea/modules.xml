@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ItripSearch/ItripSearch.iml" filepath="$PROJECT_DIR$/ItripSearch/ItripSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itripauth/Itripauth.iml" filepath="$PROJECT_DIR$/Itripauth/Itripauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itripbackend.iml" filepath="$PROJECT_DIR$/Itripbackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itripbeans/Itripbeans.iml" filepath="$PROJECT_DIR$/Itripbeans/Itripbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tttt/Itripbiz.iml" filepath="$PROJECT_DIR$/tttt/Itripbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itripdao/Itripdao.iml" filepath="$PROJECT_DIR$/Itripdao/Itripdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itriputils/Itriputils.iml" filepath="$PROJECT_DIR$/Itriputils/Itriputils.iml" />
+    </modules>
+  </component>
+</project>
